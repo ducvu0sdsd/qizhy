@@ -5,9 +5,9 @@ import { useParams } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 
 const page = () => {
-    const param = useParams();
-    const { slug } = param
-    console.log(slug)
+    // const param = useParams();
+    // const { slug } = param
+    // console.log(slug)
 
     return (
         <motion.div

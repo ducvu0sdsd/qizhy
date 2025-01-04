@@ -1,7 +1,6 @@
 import { mainColor } from '@/utils/main'
 import { usePathname, useRouter } from 'next/navigation'
 import React from 'react'
-import Logo from '../../public/logo.png'
 
 const Navbar = () => {
 
@@ -11,7 +10,7 @@ const Navbar = () => {
     return (
         <div className='flex items-center justify-between relative px-8 py-4 w-full'>
             <div className='flex items-center gap-6'>
-                <img src='./logo.png' className='w-[70px]' />
+                <img src={pathname.includes('/designs/') ? '../../logo.png' : './logo.png'} className='w-[70px]' />
                 {['/designs'].includes(pathname) && (
                     <div className="w-[400px] relative">
                         <input style={{ border: `2px solid ${mainColor}` }} placeholder="What are you looking for?" className="py-[12px] w-[100%] focus:outline-none pl-4 pr-14 rounded-3xl text-[13px]" />

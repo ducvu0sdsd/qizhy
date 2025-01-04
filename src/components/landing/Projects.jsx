@@ -8,7 +8,7 @@ const Projects = () => {
     return (
         <div className='w-full px-[5%] grid grid-cols-4 gap-4 h-[500px] mt-8'>
             <div className='flex flex-col h-[205px] w-full rounded-lg overflow-hidden gap-1'>
-                <div onClick={() => router.push('/designs/christmas-shop-hero-section')} style={{ backgroundImage: `url(./project.webp)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
+                <div onClick={() => router.push('/designs/christmas-shop-hero-section')} style={{ backgroundImage: `url(https://cdn.dribbble.com/userupload/15292044/file/original-3d42d0f97af8ceac0d265dd3b227e231.jpeg?resize=1504x1128&vertical=center)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
                 <div className='flex items-center justify-between px-1'>
                     <div className='flex items-center gap-1'>
                         <img src='./user.jpg' className='w-[35px] aspect-square rounded-full cursor-pointer' />
@@ -27,7 +27,7 @@ const Projects = () => {
                 </div>
             </div>
             <div className='flex flex-col h-[205px] rounded-lg overflow-hidden gap-1'>
-                <div style={{ backgroundImage: `url(./project.webp)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
+                <div style={{ backgroundImage: `url(https://cdn.dribbble.com/userupload/15292044/file/original-3d42d0f97af8ceac0d265dd3b227e231.jpeg?resize=1504x1128&vertical=center)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
                 <div className='flex items-center justify-between px-1'>
                     <div className='flex items-center gap-1'>
                         <img src='./user.jpg' className='w-[35px] aspect-square rounded-full cursor-pointer' />
@@ -46,7 +46,7 @@ const Projects = () => {
                 </div>
             </div>
             <div className='flex flex-col h-[205px] rounded-lg overflow-hidden gap-1'>
-                <div style={{ backgroundImage: `url(./project.webp)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
+                <div style={{ backgroundImage: `url(https://cdn.dribbble.com/userupload/15292044/file/original-3d42d0f97af8ceac0d265dd3b227e231.jpeg?resize=1504x1128&vertical=center)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
                 <div className='flex items-center justify-between px-1'>
                     <div className='flex items-center gap-1'>
                         <img src='./user.jpg' className='w-[35px] aspect-square rounded-full cursor-pointer' />
@@ -65,7 +65,7 @@ const Projects = () => {
                 </div>
             </div>
             <div className='flex flex-col h-[205px] rounded-lg overflow-hidden gap-1'>
-                <div style={{ backgroundImage: `url(./project.webp)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
+                <div style={{ backgroundImage: `url(https://cdn.dribbble.com/userupload/15292044/file/original-3d42d0f97af8ceac0d265dd3b227e231.jpeg?resize=1504x1128&vertical=center)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
                 <div className='flex items-center justify-between px-1'>
                     <div className='flex items-center gap-1'>
                         <img src='./user.jpg' className='w-[35px] aspect-square rounded-full cursor-pointer' />
@@ -84,7 +84,7 @@ const Projects = () => {
                 </div>
             </div>
             <div className='flex flex-col h-[205px] rounded-lg overflow-hidden gap-1'>
-                <div style={{ backgroundImage: `url(./project.webp)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
+                <div style={{ backgroundImage: `url(https://cdn.dribbble.com/userupload/15292044/file/original-3d42d0f97af8ceac0d265dd3b227e231.jpeg?resize=1504x1128&vertical=center)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
                 <div className='flex items-center justify-between px-1'>
                     <div className='flex items-center gap-1'>
                         <img src='./user.jpg' className='w-[35px] aspect-square rounded-full cursor-pointer' />
@@ -103,7 +103,7 @@ const Projects = () => {
                 </div>
             </div>
             <div className='flex flex-col h-[205px] rounded-lg overflow-hidden gap-1'>
-                <div style={{ backgroundImage: `url(./project.webp)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
+                <div style={{ backgroundImage: `url(https://cdn.dribbble.com/userupload/15292044/file/original-3d42d0f97af8ceac0d265dd3b227e231.jpeg?resize=1504x1128&vertical=center)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
                 <div className='flex items-center justify-between px-1'>
                     <div className='flex items-center gap-1'>
                         <img src='./user.jpg' className='w-[35px] aspect-square rounded-full cursor-pointer' />
@@ -122,7 +122,7 @@ const Projects = () => {
                 </div>
             </div>
             <div className='flex flex-col h-[205px] rounded-lg overflow-hidden gap-1'>
-                <div style={{ backgroundImage: `url(./project.webp)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
+                <div style={{ backgroundImage: `url(https://cdn.dribbble.com/userupload/15292044/file/original-3d42d0f97af8ceac0d265dd3b227e231.jpeg?resize=1504x1128&vertical=center)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
                 <div className='flex items-center justify-between px-1'>
                     <div className='flex items-center gap-1'>
                         <img src='./user.jpg' className='w-[35px] aspect-square rounded-full cursor-pointer' />
@@ -141,7 +141,7 @@ const Projects = () => {
                 </div>
             </div>
             <div className='flex flex-col h-[205px] rounded-lg overflow-hidden gap-1'>
-                <div style={{ backgroundImage: `url(./project.webp)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
+                <div style={{ backgroundImage: `url(https://cdn.dribbble.com/userupload/15292044/file/original-3d42d0f97af8ceac0d265dd3b227e231.jpeg?resize=1504x1128&vertical=center)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
                 <div className='flex items-center justify-between px-1'>
                     <div className='flex items-center gap-1'>
                         <img src='./user.jpg' className='w-[35px] aspect-square rounded-full cursor-pointer' />
@@ -160,7 +160,7 @@ const Projects = () => {
                 </div>
             </div>
             <div className='flex flex-col h-[205px] rounded-lg overflow-hidden gap-1'>
-                <div style={{ backgroundImage: `url(./project.webp)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
+                <div style={{ backgroundImage: `url(https://cdn.dribbble.com/userupload/15292044/file/original-3d42d0f97af8ceac0d265dd3b227e231.jpeg?resize=1504x1128&vertical=center)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
                 <div className='flex items-center justify-between px-1'>
                     <div className='flex items-center gap-1'>
                         <img src='./user.jpg' className='w-[35px] aspect-square rounded-full cursor-pointer' />
@@ -179,7 +179,7 @@ const Projects = () => {
                 </div>
             </div>
             <div className='flex flex-col h-[205px] rounded-lg overflow-hidden gap-1'>
-                <div style={{ backgroundImage: `url(./project.webp)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
+                <div style={{ backgroundImage: `url(https://cdn.dribbble.com/userupload/15292044/file/original-3d42d0f97af8ceac0d265dd3b227e231.jpeg?resize=1504x1128&vertical=center)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
                 <div className='flex items-center justify-between px-1'>
                     <div className='flex items-center gap-1'>
                         <img src='./user.jpg' className='w-[35px] aspect-square rounded-full cursor-pointer' />
@@ -198,7 +198,7 @@ const Projects = () => {
                 </div>
             </div>
             <div className='flex flex-col h-[205px] rounded-lg overflow-hidden gap-1'>
-                <div style={{ backgroundImage: `url(./project.webp)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
+                <div style={{ backgroundImage: `url(https://cdn.dribbble.com/userupload/15292044/file/original-3d42d0f97af8ceac0d265dd3b227e231.jpeg?resize=1504x1128&vertical=center)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
                 <div className='flex items-center justify-between px-1'>
                     <div className='flex items-center gap-1'>
                         <img src='./user.jpg' className='w-[35px] aspect-square rounded-full cursor-pointer' />
@@ -217,7 +217,7 @@ const Projects = () => {
                 </div>
             </div>
             <div className='flex flex-col h-[205px] rounded-lg overflow-hidden gap-1'>
-                <div style={{ backgroundImage: `url(./project.webp)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
+                <div style={{ backgroundImage: `url(https://cdn.dribbble.com/userupload/15292044/file/original-3d42d0f97af8ceac0d265dd3b227e231.jpeg?resize=1504x1128&vertical=center)`, paddingBottom: '56.25%' }} className='w-full rounded-md bg-cover cursor-pointer' />
                 <div className='flex items-center justify-between px-1'>
                     <div className='flex items-center gap-1'>
                         <img src='./user.jpg' className='w-[35px] aspect-square rounded-full cursor-pointer' />
